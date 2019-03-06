@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://www.wishket.com/?referer_type=201020266&gclid=EAIaIQobChMIwLmwlKnt4AIVC66WCh2I7AcUEAMYASAAEgLDAfD_BwE
+[DOC_fb_xdm_frame_https]
+BASEURL=https://staticxx.facebook.com/connect/xd_arbiter/r/vy-MhgbfL4v.js?version=44
+ORIGURL=https://staticxx.facebook.com/connect/xd_arbiter/r/vy-MhgbfL4v.js?version=44#channel=f6272888e784e5&origin=https%3A%2F%2Fwww.wishket.com
+[DOC_ch-plugin-script-iframe]
+BASEURL=https://www.wishket.com/?referer_type=201020266&gclid=EAIaIQobChMIwLmwlKnt4AIVC66WCh2I7AcUEAMYASAAEgLDAfD_BwE
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.wishket.com/?referer_type=201020266&gclid=EAIaIQobChMIwLmwlKnt4AIVC66WCh2I7AcUEAMYASAAEgLDAfD_BwE
+IconFile=https://www.wishket.com/static/favicon.ico
+IconIndex=1
